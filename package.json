@@ -1,0 +1,24 @@
+{
+  "name": "express-https",
+  "version": "1.0.0",
+  "description": "Upgrade HTTP requests to HTTPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattkrea/express-https.git"
+  },
+  "keywords": [
+    "upgrade",
+    "http",
+    "https"
+  ],
+  "author": "mattkrea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattkrea/express-https/issues"
+  },
+  "homepage": "https://github.com/mattkrea/express-https#readme"
+}
