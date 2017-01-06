@@ -11,7 +11,7 @@ npm install express-https-upgrade
 
 ```js
 
-const upgrade = require('express-https');
+const upgrade = require('express-https-upgrade');
 const app = require('express')();
 
 // If behind a proxy
