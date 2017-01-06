@@ -1,6 +1,6 @@
 {
   "name": "express-https-upgrade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Upgrade HTTP requests to HTTPS",
   "main": "index.js",
   "scripts": {
